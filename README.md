@@ -59,7 +59,7 @@ Maybe surveys to ask the people filing claims about their experience, NLP, socia
 They make measuring customer satisfaction quantifiable, which helps determine what actions to take to improve. 
 
 ##### Work cited: 
-###### (https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/03/insurtech-trends-2019.pdf). 
+###### https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/03/insurtech-trends-2019.pdf 
 ###### https://www.linkedin.com/in/tom-korach-md-329b8233/
 ###### https://www.linkedin.com/in/jeffto/
 ###### https://www.crunchbase.com/organization/safekeep-com/company_financials
